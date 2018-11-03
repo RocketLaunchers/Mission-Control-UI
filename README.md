@@ -3,7 +3,6 @@ This is the software side of the avionics project for the Rocket Launchers 2018-
 
 
 ## Useful information:
-  * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
   * [How to upload progress](https://i.imgur.com/AvRJH1w.jpg) - Uploading to git from VS code
   * [Documentaion for pull requests](https://help.github.com/articles/creating-a-pull-request/) - Incase you want to read it from github instead
   * Just remember that you have to properly setup git on yourside, and then open the folder using VS Code.
